@@ -57,11 +57,11 @@ pip install psutil requests
 
 ### 3. Configuration
 
-Open `main.py` (or your script name) and insert your credentials:
+Open `Battery_Monitoring_TelegramBOT_IoT_Implementation.py` and insert your credentials:
 
 ```python
-TOKEN = "YOUR_TELEGRAM_BOT_TOKEN"
-CHAT_ID = "YOUR_TELEGRAM_CHAT_ID"
+token = "PLACE_TOKEN_BOT_HERE"
+chat_id = "YOUR_CHAT_ID"
 ```
 
 ### 4. Running the Application
@@ -69,7 +69,7 @@ CHAT_ID = "YOUR_TELEGRAM_CHAT_ID"
 Execute the script:
 
 ```bash
-python main.py
+Battery_Monitoring_TelegramBOT_IoT_Implementation.py
 ```
 
 ---
@@ -80,7 +80,7 @@ python main.py
 To run the script in the background without keeping a Command Prompt window open, rename your file extension from `.py` to `.pyw` and double-click it, or execute:
 
 ```bash
-pythonw main.py
+Battery_Monitoring_TelegramBOT_IoT_Implementation.py
 ```
 
 *Tip: You can add a shortcut to this file in your Windows `Startup` folder (`shell:startup`) to start it automatically on boot.*
@@ -89,7 +89,7 @@ pythonw main.py
 
 ## 🤝 Contributing
 
-Contributions, issues, and feature requests are always welcome! Feel free to check the [issues page](../../issues) if you have suggestions.
+Contributions, issues, and feature requests are always welcome! Feel free to check the [issues page](https://github.com/Ryzn021/Laptop-Battery-Monitoring-through-Telegram-with-IoT/issues) if you have suggestions.
 
 ---
 
