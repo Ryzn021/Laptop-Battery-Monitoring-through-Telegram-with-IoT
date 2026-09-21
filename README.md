@@ -1,5 +1,8 @@
 # 🔋 Battery Notifier Bot
 
+Are you a kind of person who forgets easily? Especially when charging the laptop? You plan to left the laptop in charging state for a very short time, BUT when you check it's 100 ALREADY. This certainly accelerates the degradation of your laptop battery. Especially if your laptop doesn't have a built-in battery limitation feature like Lenovo's conservative mode. Maybe your laptop does have it,
+but you often forget to turn it on. AFRAID NOT!
+
 > **Stay ahead of battery wear!** A lightweight, cross-platform Python script that monitors your laptop's battery health and delivers real-time alert notifications directly to your **Telegram** account.
 
 ---
